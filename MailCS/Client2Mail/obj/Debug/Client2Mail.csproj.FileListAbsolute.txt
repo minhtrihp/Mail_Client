@@ -1,0 +1,166 @@
+D:\MailCSapp\MailCS\Client2Mail\bin\Debug\Client2Mail.exe.config
+D:\MailCSapp\MailCS\Client2Mail\bin\Debug\Client2Mail.exe
+D:\MailCSapp\MailCS\Client2Mail\bin\Debug\Client2Mail.pdb
+D:\MailCSapp\MailCS\Client2Mail\obj\Debug\Client2Mail.csprojAssemblyReference.cache
+D:\MailCSapp\MailCS\Client2Mail\obj\Debug\Client2Mail.Properties.Resources.resources
+D:\MailCSapp\MailCS\Client2Mail\obj\Debug\Client2Mail.csproj.GenerateResource.cache
+D:\MailCSapp\MailCS\Client2Mail\obj\Debug\Client2Mail.csproj.CoreCompileInputs.cache
+D:\MailCSapp\MailCS\Client2Mail\obj\Debug\Client2Mail.exe
+D:\MailCSapp\MailCS\Client2Mail\obj\Debug\Client2Mail.pdb
+D:\MailCSapp\MailCS\Client2Mail\obj\Debug\Client2Mail.Client2Mail.resources
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Client2Mail.exe.config
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Client2Mail.exe
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Client2Mail.pdb
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Mail.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\MySql.Data.DLL
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Google.Protobuf.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Renci.SshNet.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\BouncyCastle.Crypto.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.FormDangNhap.resources
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.FormSendMail.resources
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.Properties.Resources.resources
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.csproj.GenerateResource.cache
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.csproj.CoreCompileInputs.cache
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.csproj.CopyComplete
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.exe
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.pdb
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.SplashScreen.resources
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.Licensing.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.FormListMail.resources
+F:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 3\LẬP TRÌNH MẠNG\Bài Tập Lớn LTM\Project_LTM\MailCS\Client2Mail\obj\Debug\Client2Mail.csprojAssemblyReference.cache
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Client2Mail.exe.config
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Client2Mail.exe
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Client2Mail.pdb
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.Licensing.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Google.Protobuf.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Renci.SshNet.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.csprojAssemblyReference.cache
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.FormDangNhap.resources
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.FormListMail.resources
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.FormSendMail.resources
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.Properties.Resources.resources
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.SplashScreen.resources
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.csproj.GenerateResource.cache
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.csproj.CoreCompileInputs.cache
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.csproj.CopyComplete
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.exe
+C:\Users\LeTruongAn\Desktop\MailCS\Client2Mail\obj\Debug\Client2Mail.pdb

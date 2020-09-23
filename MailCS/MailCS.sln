@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client2Mail", "Client2Mail\Client2Mail.csproj", "{4D51F769-D0A1-4794-B9A2-C1A6AE3942FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D51F769-D0A1-4794-B9A2-C1A6AE3942FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D51F769-D0A1-4794-B9A2-C1A6AE3942FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D51F769-D0A1-4794-B9A2-C1A6AE3942FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D51F769-D0A1-4794-B9A2-C1A6AE3942FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9D90D92-5986-4CA0-A977-3D5C13B56258}
+	EndGlobalSection
+EndGlobal
